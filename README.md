@@ -1,1 +1,2 @@
 # GitDemo
+Git is fun
